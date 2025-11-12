@@ -1,0 +1,14 @@
+Flask
+Flask-Cors
+Flask-SocketIO
+Flask-Login
+Flask-Mail
+Flask-WTF
+Flask-Migrate
+Flask-SQLAlchemy
+Werkzeug
+itsdangerous
+Jinja2
+click
+gunicorn
+python-dotenv
